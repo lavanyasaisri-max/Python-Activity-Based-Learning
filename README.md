@@ -40,7 +40,3 @@ Each program uses documented sample data so it runs directly and produces repeat
 ## Syllabus concepts used
 
 The programs use variables, numeric and string data, operators, conditionals, loops, lists, nested lists, tuples, tuple unpacking, and formatted output. They avoid external packages and advanced constructs outside the supplied syllabus.
-
-## Before submission
-
-Fill in the student details above and verify the sample assumptions with your faculty. Create the GitHub repository named `Python-Activity-Based-Learning`, upload this folder, and add its repository URL to your submission.
